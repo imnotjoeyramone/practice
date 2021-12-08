@@ -1,1 +1,1 @@
-"Adding new text"
+"Input text"
